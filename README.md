@@ -14,7 +14,7 @@ https://github.com/JorisOziol/SEC101/blob/main/snort.conf
 
     You can get some nice community rules from here:
 
-https://github.com/thereisnotime/Snort-2-Rules
+https://github.com/JorisOziol/SEC101/tree/main/rules2
 
     Start your terminal as administrator and type:
 
